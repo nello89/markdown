@@ -7,7 +7,11 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/overview-1.html</loc>
+            <loc>/foundations/overview.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/foundations/untitled.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
@@ -48,6 +52,10 @@
         </url>
         <url>
             <loc>/resources/tools-and-resources.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/untitled.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    

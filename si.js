@@ -1,997 +1,767 @@
 
   const FuseSearchData = [
   {
-    "id": 0,
+    "text": "Our vision is to provide the tools needed for building incredible maker products.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b70-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "blockId": "3f72f090-e5a3-11ec-bc78-61d1949f2c68",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-3f72f090-e5a3-11ec-bc78-61d1949f2c68"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b71-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 1,
-    "text": "In the introduction, outline your documentation.",
+    "text": "From our perspective, we aim to bring order and consistency to products and the processes behind them. We elevate the user experience and increase the speed and efficiency of how we design and build products",
     "type": "contentBlock",
-    "blockId": "3f87b110-e5a3-11ec-bc78-61d1949f2c68",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-3f87b110-e5a3-11ec-bc78-61d1949f2c68"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b72-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 2,
-    "text": "What is this documentation about?",
+    "text": "As a company, we believe that by giving people resources to create products easily, we all will make humanity better. Together.",
     "type": "contentBlock",
-    "blockId": "bcd6f080-4d2e-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-bcd6f080-4d2e-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b73-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 3,
-    "text": "How should it be used?",
-    "type": "contentBlock",
-    "blockId": "74b6d1b0-4d30-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-74b6d1b0-4d30-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 4,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "20cf7fa0-5363-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-20cf7fa0-5363-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 5,
-    "text": "Get started",
+    "text": "Principles behind Documentation",
     "type": "sectionHeader",
-    "blockId": "b3d78e20-4d30-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-b3d78e20-4d30-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b74-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 6,
-    "text": "What do users need to know to get started?",
+    "text": "These are the values we use to build and maintain Rocket.",
     "type": "contentBlock",
-    "blockId": "bf8b0210-4d30-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-bf8b0210-4d30-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b75-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 7,
+    "text": "To be honest, Rocket isn’t currently fully compliant with some of our principles, but we’re working on it every day. These principles help us keep on track and stay focused on the right things.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b76-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Focus is truly the most important thing.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b79-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Find the best middle ground",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b7a-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "There are 4 key aspects when working on Rocket. Our goal is to meet somewhere in the middle—so everything we do isn’t just consistent or composable, but improves the work of our designers and developers and is maintainable in the long-term.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84940b7b-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Be transparent",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943280-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Transparency is the key to success. That’s why we have a public roadmap and open feedback channels. But we’re trying to go further. We document our design decisions so we can reference them in discussions and not reinvent the wheel again by discussing stuff repeatedly and without historical context.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943281-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Listen and react",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943282-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "The first and most important part: nothing in Rocket was done without research. Listen to users, actively ask for feedback, and act on users’ needs. When answering, provide enough context. Don’t let people wait for our answers. Their job may be blocked by Rocket and they may rely on us to help them.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943283-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Make things intuitive",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943284-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Not many people read the documentation. Our goal is to make everything as simple as possible, ideally self-explanatory. We believe that consistency is followed closely by clarity. We encourage experimentation. We welcome new solutions. But our focus is on using patterns and vocabulary that are familiar to our users.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943285-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Give consumers just enough control",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943286-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "The priority for Rocket consumers is to always deliver the feature they need to work on. And they expect Rocket to be a tool that just works. Give consumers delightful components and provide enough flexibility in how to assemble them for the specific use case they have. Ensure consistency in visual interactions, but allow consumers to extend components by their own actions.",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943287-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "blockId": "38bef170-4c5d-11ec-8da3-557eed56e2dd",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-38bef170-4c5d-11ec-8da3-557eed56e2dd"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943288-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 8,
-    "text": "To guide users to other sections of your documentation, use a Shortcut block:",
+    "text": "Let's begin",
+    "type": "sectionHeader",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-84943289-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Now that you know all the basic principles, the journey through our design system can truly begin.",
     "type": "contentBlock",
-    "blockId": "7af440e0-4c5d-11ec-8da3-557eed56e2dd",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-7af440e0-4c5d-11ec-8da3-557eed56e2dd"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-8494328a-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 9,
     "text": "",
     "type": "contentBlock",
-    "blockId": "05547490-51ee-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-05547490-51ee-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-645abb40-7720-11ed-8e20-efa61c624dd0"
   },
   {
-    "id": 10,
     "text": "",
     "type": "contentBlock",
-    "blockId": "43324130-4d42-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-43324130-4d42-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-30276110-808b-11ed-8fdd-538e545c3b51"
   },
   {
-    "id": 11,
+    "text": "/com",
+    "type": "contentBlock",
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-304633b0-808b-11ed-8fdd-538e545c3b51"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "blockId": "5d237d10-51da-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-5d237d10-51da-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html#search-5a212510-9638-11ed-b321-f7735d5c9bf9"
   },
   {
-    "id": 12,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "18525460-09b6-11ed-9434-bdb18b34fc3a",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-18525460-09b6-11ed-9434-bdb18b34fc3a"
-  },
-  {
-    "id": 13,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "18e9d970-09b6-11ed-9434-bdb18b34fc3a",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-18e9d970-09b6-11ed-9434-bdb18b34fc3a"
-  },
-  {
-    "id": 14,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "dd679ac0-0e3a-11ed-b3ac-ad226ab544f0",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-dd679ac0-0e3a-11ed-b3ac-ad226ab544f0"
-  },
-  {
-    "id": 15,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "0f94db40-12f3-11ed-98cd-db5b33728b08",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-0f94db40-12f3-11ed-98cd-db5b33728b08"
-  },
-  {
-    "id": 16,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "d211d1f0-13f2-11ed-a5ea-099c0daecaaa",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-d211d1f0-13f2-11ed-a5ea-099c0daecaaa"
-  },
-  {
-    "id": 17,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "f0fc0874-d774-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-f0fc0874-d774-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 18,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "f0fc0876-d774-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-f0fc0876-d774-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 19,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "f0fc0879-d774-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-f0fc0879-d774-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 20,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "f0fc087b-d774-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-f0fc087b-d774-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 21,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "632c7882-d77f-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-632c7882-d77f-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 22,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "632c7884-d77f-11ec-bab2-d93262df6822",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html#search-632c7884-d77f-11ec-bab2-d93262df6822"
-  },
-  {
-    "id": 23,
-    "text": "Introduction",
+    "text": "Documentation 🚀",
     "type": "pageTitle",
-    "pageId": "1190421",
-    "pageName": "Introduction",
-    "category": "Introduction",
-    "url": "/introduction.html"
+    "pageName": "Documentation 🚀",
+    "category": "Documentation 🚀",
+    "url": "/documentation.html"
   },
   {
-    "id": 24,
-    "text": "Add your own ove/rview here.",
+    "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
     "type": "contentBlock",
-    "blockId": "a2586450-4bad-11ec-8f5e-29e732ba669c",
-    "pageId": "1190418",
-    "pageName": "Overview",
-    "category": "Foundations / Overview",
-    "url": "/foundations/overview-1.html#search-a2586450-4bad-11ec-8f5e-29e732ba669c"
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd70-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 25,
+    "text": "General guidelines",
+    "type": "sectionHeader",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd71-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "We have different shades for every defined color in Orbit. For most of our colors note, the following points should apply:",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd72-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Every color has specific guidelines for meaning. We honor these guidelines in order to maintain consistency across the product.",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd73-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "It’s usually safe to combine the Light and Dark shades of any color. Text in the Dark shade should be readable on the Light background of its color.",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd74-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "No Dark shade should be used as a background.",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd75-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Every non-Dark color has two additional shades defined: :active and :hover. These additional shades should only be used for very specific cases.",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd76-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "All of our colors are also defined as design tokens, so non-Orbit components can use Orbit colors directly and they don’t need to define colors again in their local codebase.",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd77-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "blockId": "f2f57950-51ef-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190418",
-    "pageName": "Overview",
-    "category": "Foundations / Overview",
-    "url": "/foundations/overview-1.html#search-f2f57950-51ef-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd78-7494-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 26,
-    "text": "Overview",
+    "text": "Background & Foreground Colors",
+    "type": "sectionHeader",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd79-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Other cool tokens!",
+    "type": "sectionHeader",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-f227cd80-7494-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-720d1340-7b90-11ed-ac8d-4350d1346e53"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html#search-849ef370-7b90-11ed-ac8d-4350d1346e53"
+  },
+  {
+    "text": "Default Brand",
     "type": "pageTitle",
-    "pageId": "1190418",
-    "pageName": "Overview",
-    "category": "Foundations / Overview",
-    "url": "/foundations/overview-1.html"
+    "pageName": "Colors/Default Brand",
+    "category": "Styleguide / Colors / Default Brand",
+    "url": "/styleguide/colors/default-brand.html"
   },
   {
-    "id": 27,
-    "text": "Accent",
+    "text": "Use color intentionally. It’s not decoration. Color is supposed to be functional.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb40-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "General guidelines",
     "type": "sectionHeader",
-    "blockId": "e7e8bd00-4c5a-11ec-8da3-557eed56e2dd",
-    "pageId": "1190413",
-    "pageName": "Color",
-    "category": "Foundations / Color",
-    "url": "/foundations/color.html#search-e7e8bd00-4c5a-11ec-8da3-557eed56e2dd"
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb41-7495-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 28,
-    "text": "Primary",
-    "type": "sectionHeader",
-    "blockId": "65ede5a0-4c5a-11ec-8da3-557eed56e2dd",
-    "pageId": "1190413",
-    "pageName": "Color",
-    "category": "Foundations / Color",
-    "url": "/foundations/color.html#search-65ede5a0-4c5a-11ec-8da3-557eed56e2dd"
+    "text": "We have different shades for every defined color in Orbit. For most of our colorsnote, the following points should apply:",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb42-7495-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 29,
-    "text": "Secondary",
-    "type": "sectionHeader",
-    "blockId": "a975f3d0-4c5a-11ec-8da3-557eed56e2dd",
-    "pageId": "1190413",
-    "pageName": "Color",
-    "category": "Foundations / Color",
-    "url": "/foundations/color.html#search-a975f3d0-4c5a-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "id": 30,
     "text": "",
     "type": "contentBlock",
-    "blockId": "53f91f00-4d3a-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190413",
-    "pageName": "Color",
-    "category": "Foundations / Color",
-    "url": "/foundations/color.html#search-53f91f00-4d3a-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb43-7495-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 31,
-    "text": "Color",
+    "text": "Every color has specific guidelines for meaning. We honor these guidelines in order to maintain consistency across the product.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb44-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "It is not safe to combine the Light and Dark shades of any color. Always use just one or the other.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb45-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "No Dark shade should be used as a background.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb46-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Every non-Dark color has two additional shades defined: :active and :hover. These additional shades should only be used for very specific cases.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb47-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "All of our colors are also defined as design tokens, so non-Orbit components can use Orbit colors directly and they don’t need to define colors again in their local codebase.",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb48-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Background & Foreground Colors",
+    "type": "sectionHeader",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb49-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "We use two main colors:",
+    "type": "contentBlock",
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html#search-a26bdb4a-7495-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Alternate Brand",
     "type": "pageTitle",
-    "pageId": "1190413",
-    "pageName": "Color",
-    "category": "Foundations / Color",
-    "url": "/foundations/color.html"
+    "pageName": "Colors/Alternate Brand",
+    "category": "Styleguide / Colors / Alternate Brand",
+    "url": "/styleguide/colors/alternate-brand.html"
   },
   {
-    "id": 32,
-    "text": "Heading",
-    "type": "sectionHeader",
-    "blockId": "d8fd0190-4d43-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190412",
+    "text": "Themes",
+    "type": "pageTitle",
+    "pageName": "Themes",
+    "category": "Styleguide / Themes",
+    "url": "/styleguide/themes.html"
+  },
+  {
+    "text": "Typography is often one of the foundational components you will want to get a handle on. It must work harmoniously with other elements like icons and UI controls. Your line heights may influence many other structural elements like spacing and grids. Here are a few key areas you'll want to think through.",
+    "type": "contentBlock",
     "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-d8fd0190-4d43-11ec-8ce5-cb0f56bcf344"
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ecf3e010-7498-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 33,
-    "text": "Body",
-    "type": "sectionHeader",
-    "blockId": "74427160-51d8-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190412",
-    "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-74427160-51d8-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 34,
-    "text": "Code",
-    "type": "sectionHeader",
-    "blockId": "75e8f570-51d8-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190412",
-    "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-75e8f570-51d8-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 35,
     "text": "",
     "type": "contentBlock",
-    "blockId": "0358aa20-4d44-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190412",
     "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-0358aa20-4d44-11ec-8ce5-cb0f56bcf344"
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ecf3e011-7498-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 36,
-    "text": "Fonts",
+    "text": "Always start by creating a clear hierarchy with the help of different sizes. Only work with font weight and body text color if you need to emphasize something.",
+    "type": "contentBlock",
+    "pageName": "Typography",
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ecf3e012-7498-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Text styles",
     "type": "sectionHeader",
-    "blockId": "d518e990-4d43-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190412",
     "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-d518e990-4d43-11ec-8ce5-cb0f56bcf344"
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ecf3e013-7498-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 37,
+    "text": "The most basic component for rendering text blocks.",
+    "type": "contentBlock",
+    "pageName": "Typography",
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ecf3e014-7498-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "",
     "type": "contentBlock",
-    "blockId": "f5064d60-51ee-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190412",
     "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html#search-f5064d60-51ee-11ec-9e6d-bdf95c8a8921"
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html#search-ede9ffe0-7498-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 38,
     "text": "Typography",
     "type": "pageTitle",
-    "pageId": "1190412",
     "pageName": "Typography",
-    "category": "Foundations / Typography",
-    "url": "/foundations/typography.html"
+    "category": "Styleguide / Typography",
+    "url": "/styleguide/typography.html"
   },
   {
-    "id": 39,
+    "text": "When to use",
+    "type": "sectionHeader",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d0-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "To add simple visual context.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d1-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "To clarify the purpose of a feature or draw attention to a commonly understood action.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d2-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "With text so the context is accessible to everyone.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d3-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "When not to use",
+    "type": "sectionHeader",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d4-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "For services such as payment methods—use a service logo.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d5-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "For carriers for transport—use a carrier logo.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d6-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "For general visual context—use an illustration.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d7-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Interactions",
+    "type": "sectionHeader",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d8-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Some icons (like plus and close ) work well to show users that an interaction is possible (like adding an option or closing a dialog). Users are used to interacting with these icons, so they work well inside buttons.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002d9-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Don’t use such icons in places where users can’t interact with them. This creates an expectation that clicking them does something, which can lead to users being frustrated when nothing happens.",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002da-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002db-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Library",
+    "type": "sectionHeader",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-c92002dc-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "All following icons are available to you:",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-d02fb840-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html#search-d1546220-7499-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "Icons",
-    "type": "sectionHeader",
-    "blockId": "7b7542c0-4d44-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-7b7542c0-4d44-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 40,
-    "text": "Add assets from Supernova:",
-    "type": "contentBlock",
-    "blockId": "7e49dc00-4d43-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-7e49dc00-4d43-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 41,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "9669dab0-4d43-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-9669dab0-4d43-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 42,
-    "text": "Or add assets directly from Figma:",
-    "type": "contentBlock",
-    "blockId": "71f96f50-4d44-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-71f96f50-4d44-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 43,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "5aca8760-4d44-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html#search-5aca8760-4d44-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 44,
-    "text": "Iconography",
     "type": "pageTitle",
-    "pageId": "1190415",
-    "pageName": "Iconography",
-    "category": "Foundations / Iconography",
-    "url": "/foundations/iconography.html"
+    "pageName": "Icons",
+    "category": "Styleguide / Icons",
+    "url": "/styleguide/icons.html"
   },
   {
-    "id": 45,
-    "text": "Grid",
-    "type": "sectionHeader",
-    "blockId": "b66d00e0-4d42-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190417",
-    "pageName": "Layout",
-    "category": "Foundations / Layout",
-    "url": "/foundations/layout.html#search-b66d00e0-4d42-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 46,
-    "text": "Scale",
-    "type": "sectionHeader",
-    "blockId": "8b4b1790-4d41-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190417",
-    "pageName": "Layout",
-    "category": "Foundations / Layout",
-    "url": "/foundations/layout.html#search-8b4b1790-4d41-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 47,
-    "text": "",
+    "text": "/",
     "type": "contentBlock",
-    "blockId": "b2b1f4b0-4d42-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190417",
-    "pageName": "Layout",
-    "category": "Foundations / Layout",
-    "url": "/foundations/layout.html#search-b2b1f4b0-4d42-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Components",
+    "category": "Styleguide / Components",
+    "url": "/styleguide/components.html#search-f0a99fa0-7499-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 48,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "b2ff5160-4d42-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190417",
-    "pageName": "Layout",
-    "category": "Foundations / Layout",
-    "url": "/foundations/layout.html#search-b2ff5160-4d42-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 49,
-    "text": "Layout",
+    "text": "Components",
     "type": "pageTitle",
-    "pageId": "1190417",
-    "pageName": "Layout",
-    "category": "Foundations / Layout",
-    "url": "/foundations/layout.html"
+    "pageName": "Components",
+    "category": "Styleguide / Components",
+    "url": "/styleguide/components.html"
   },
   {
-    "id": 50,
-    "text": "Untitled",
+    "text": "Overview",
+    "type": "sectionHeader",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-4816ea00-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Buttons communicate actions that users can take. They are typically placed throughout your UI, in places like: Dialogs, Forms, Toolbars, etc.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-4816ea01-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Unable to show component health - please specify component first",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-4816ea02-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Component Structure",
+    "type": "sectionHeader",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-4816ea03-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Variants",
+    "type": "sectionHeader",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f30-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Here are some of the variants of the button that you can use.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f31-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Guidelines",
+    "type": "sectionHeader",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f33-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Identify the most important actions",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f34-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "If everything looks important, then nothing is important - Patric Lencioni",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f35-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Users need to be certain of what action to take next. You need to know which actions are the most important within a given section of the user flow.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f36-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Once you’ve identified which actions are the most important at the moment, you can indicate importance through size, type, and variation.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f37-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f38-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "The secondary small button is great for actions in cards as it stands out from the interface but doesn’t take so much attention.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f39-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "If you have a repeated view, use the secondary button for the main action. Primary buttons would offer too many choices to select from.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f3a-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Buttons with icons",
+    "type": "sectionHeader",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f3b-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Buttons with icons are great when you need to draw more attention to the action. Icons add additional context and makes the buttons more easy to scan.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f3c-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "But it’s essential to not overuse these buttons. If everything is grabbing attention, things usually get messy.",
+    "type": "contentBlock",
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html#search-57328f3d-748f-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "Overview",
     "type": "pageTitle",
-    "pageId": "1264143",
-    "pageName": "Untitled",
-    "category": "Components / Untitled",
-    "url": "/components/untitled.html"
+    "pageName": "Button /Overview",
+    "category": "Components / Button  / Overview",
+    "url": "/components/button/overview.html"
   },
   {
-    "id": 51,
-    "text": "Design",
+    "text": "Live Code snippet",
     "type": "sectionHeader",
-    "blockId": "c960f080-4d3d-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-c960f080-4d3d-11ec-8ce5-cb0f56bcf344"
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-1695b910-749a-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 52,
-    "text": "What is the purpose of this component?",
-    "type": "contentBlock",
-    "blockId": "115643e0-4d3e-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-115643e0-4d3e-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 53,
-    "text": "How should this component be used?",
-    "type": "contentBlock",
-    "blockId": "4d86a5e0-4d38-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-4d86a5e0-4d38-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 54,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "2dc3f650-e5a3-11ec-bc78-61d1949f2c68",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-2dc3f650-e5a3-11ec-bc78-61d1949f2c68"
-  },
-  {
-    "id": 55,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "300f6cf0-e5a3-11ec-bc78-61d1949f2c68",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-300f6cf0-e5a3-11ec-bc78-61d1949f2c68"
-  },
-  {
-    "id": 56,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "3029d2c0-e5a3-11ec-bc78-61d1949f2c68",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-3029d2c0-e5a3-11ec-bc78-61d1949f2c68"
-  },
-  {
-    "id": 57,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "7491d270-51ef-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-7491d270-51ef-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 58,
-    "text": "Anatomy",
-    "type": "sectionHeader",
-    "blockId": "710edeb0-4d38-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-710edeb0-4d38-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 59,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "cef54620-4bb4-11ec-8da3-557eed56e2dd",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-cef54620-4bb4-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "id": 60,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "30b0b180-4d3e-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-30b0b180-4d3e-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 61,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "3637cb20-4d3e-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-3637cb20-4d3e-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 62,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "49311fb0-4d3e-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-49311fb0-4d3e-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 63,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "6d2c6130-4de4-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html#search-6d2c6130-4de4-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 64,
-    "text": "Design",
-    "type": "pageTitle",
-    "pageId": "1190422",
-    "pageName": "Button/Design",
-    "category": "Button / Design",
-    "url": "/button/design-1.html"
-  },
-  {
-    "id": 65,
-    "text": "Usage",
-    "type": "sectionHeader",
-    "blockId": "b1d878c0-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-b1d878c0-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 66,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "c43df1c0-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-c43df1c0-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 67,
-    "text": "DO -> Use short and concise button labels to indicate the action to the user",
-    "type": "contentBlock",
-    "blockId": "b88107f0-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-b88107f0-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 68,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "fea82b00-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-fea82b00-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 69,
-    "text": "DON'T -> Use long or indirect sentences to indicate an action",
-    "type": "contentBlock",
-    "blockId": "feda5e90-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-feda5e90-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 70,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "0542fe90-5121-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-0542fe90-5121-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 71,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "19361c70-5121-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html#search-19361c70-5121-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 72,
-    "text": "Usage",
-    "type": "pageTitle",
-    "pageId": "1190419",
-    "pageName": "Button/Usage",
-    "category": "Button / Usage",
-    "url": "/button/usage-1.html"
-  },
-  {
-    "id": 73,
-    "text": "Code",
-    "type": "sectionHeader",
-    "blockId": "a1d69240-5120-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-a1d69240-5120-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 74,
-    "text": "Live demo",
-    "type": "sectionHeader",
-    "blockId": "65f6e850-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-65f6e850-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 75,
-    "text": "To display a live demo, use the React Render Code block:",
-    "type": "contentBlock",
-    "blockId": "6816bb10-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-6816bb10-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 76,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "7463d6f0-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-7463d6f0-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 77,
-    "text": "Code snippet",
-    "type": "sectionHeader",
-    "blockId": "74b37d90-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-74b37d90-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 78,
     "text": "Display any other type of code snippet with a Code block:",
     "type": "contentBlock",
-    "blockId": "76ff6960-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-76ff6960-5126-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-1695b911-749a-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 79,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "8a9cc620-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-8a9cc620-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 80,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "80001960-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-80001960-5126-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 81,
     "text": "Storybook story",
     "type": "sectionHeader",
-    "blockId": "81545ec0-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-81545ec0-5126-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-3336d310-749a-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 82,
     "text": "Or embed a Storybook story with the Storybook block:",
     "type": "contentBlock",
-    "blockId": "80667c50-5126-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html#search-80667c50-5126-11ec-9e6d-bdf95c8a8921"
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-3336d311-749a-11ed-ac99-e9368f5fa861"
   },
   {
-    "id": 83,
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-3ae67200-749a-11ed-ac99-e9368f5fa861"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html#search-3c1db980-749a-11ed-ac99-e9368f5fa861"
+  },
+  {
     "text": "Code",
     "type": "pageTitle",
-    "pageId": "1190414",
-    "pageName": "Button/Code",
-    "category": "Button / Code",
-    "url": "/button/code-1.html"
+    "pageName": "Button /Code",
+    "category": "Components / Button  / Code",
+    "url": "/components/button/code.html"
   },
   {
-    "id": 84,
-    "text": "Usage",
-    "type": "sectionHeader",
-    "blockId": "ef9f8f60-4d40-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-ef9f8f60-4d40-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 85,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "17e68860-51d9-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-17e68860-51d9-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 86,
-    "text": "Add a list of tokens for developers with a Code block:",
-    "type": "contentBlock",
-    "blockId": "1858ab20-51d9-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-1858ab20-51d9-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 87,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "efc6ed80-4d40-11ec-8ce5-cb0f56bcf344",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-efc6ed80-4d40-11ec-8ce5-cb0f56bcf344"
-  },
-  {
-    "id": 88,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "142a43b0-51d9-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html#search-142a43b0-51d9-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 89,
-    "text": "Design tokens",
+    "text": "Markdown",
     "type": "pageTitle",
-    "pageId": "1190416",
-    "pageName": "Design tokens",
-    "category": "Resources / Design tokens",
-    "url": "/resources/design-tokens.html"
+    "pageName": "Button /Markdown",
+    "category": "Components / Button  / Markdown",
+    "url": "/components/button/markdown.html"
   },
   {
-    "id": 90,
-    "text": "Resources",
-    "type": "sectionHeader",
-    "blockId": "79cf13d0-51d9-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-79cf13d0-51d9-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 91,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "28902b20-51da-11ec-9e6d-bdf95c8a8921",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-28902b20-51da-11ec-9e6d-bdf95c8a8921"
-  },
-  {
-    "id": 92,
-    "text": "Embed a Figma file with the Figma block:",
-    "type": "contentBlock",
-    "blockId": "f8aefa60-4c59-11ec-8da3-557eed56e2dd",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-f8aefa60-4c59-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "id": 93,
-    "text": "",
-    "type": "contentBlock",
-    "blockId": "78316cd0-4c5c-11ec-8da3-557eed56e2dd",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-78316cd0-4c5c-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "id": 94,
-    "text": "Embed other external content with an generic Embed block:",
-    "type": "contentBlock",
-    "blockId": "889374b0-4c5c-11ec-8da3-557eed56e2dd",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html#search-889374b0-4c5c-11ec-8da3-557eed56e2dd"
-  },
-  {
-    "id": 95,
-    "text": "Tools and resources",
-    "type": "pageTitle",
-    "pageId": "1190420",
-    "pageName": "Tools and resources",
-    "category": "Resources / Tools and resources",
-    "url": "/resources/tools-and-resources.html"
-  },
-  {
-    "id": 96,
     "text": "Documentation Root",
     "type": "groupTitle",
-    "groupId": "1190407",
     "pageName": "Documentation Root",
     "category": "Documentation Root",
-    "url": "/introduction.html"
+    "url": "/documentation.html"
   },
   {
-    "id": 97,
-    "text": "Foundations",
+    "text": "Styleguide",
     "type": "groupTitle",
-    "groupId": "1190411",
-    "pageName": "Foundations",
-    "category": "Foundations",
-    "url": "/foundations/overview-1.html"
+    "pageName": "Styleguide",
+    "category": "Styleguide",
+    "url": "/styleguide/colors/default-brand.html"
   },
   {
-    "id": 98,
+    "text": "Colors",
+    "type": "groupTitle",
+    "pageName": "Colors",
+    "category": "Styleguide / Colors",
+    "url": "/styleguide/colors/default-brand.html"
+  },
+  {
     "text": "Components",
     "type": "groupTitle",
-    "groupId": "1190410",
     "pageName": "Components",
     "category": "Components",
-    "url": "/components/untitled.html"
+    "url": "/components/button/overview.html"
   },
   {
-    "id": 99,
-    "text": "Button",
+    "text": "Button ",
     "type": "groupTitle",
-    "groupId": "1190408",
-    "pageName": "Button",
-    "category": "Button",
-    "url": "/button/design-1.html"
-  },
-  {
-    "id": 100,
-    "text": "Resources",
-    "type": "groupTitle",
-    "groupId": "1190409",
-    "pageName": "Resources",
-    "category": "Resources",
-    "url": "/resources/design-tokens.html"
+    "pageName": "Button ",
+    "category": "Components / Button ",
+    "url": "/components/button/overview.html"
   }
 ];
   

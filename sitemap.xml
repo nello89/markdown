@@ -3,51 +3,43 @@
    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
         <url>
-            <loc>/introduction.html</loc>
+            <loc>/documentation.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/overview-1.html</loc>
+            <loc>/styleguide/colors/default-brand.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/color.html</loc>
+            <loc>/styleguide/colors/alternate-brand.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/typography.html</loc>
+            <loc>/styleguide/themes.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/iconography.html</loc>
+            <loc>/styleguide/typography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/foundations/layout.html</loc>
+            <loc>/styleguide/icons.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/components/untitled.html</loc>
+            <loc>/styleguide/components.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/button/design-1.html</loc>
+            <loc>/components/button/overview.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/button/usage-1.html</loc>
+            <loc>/components/button/code.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/button/code-1.html</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/resources/design-tokens.html</loc>
-            <changefreq>weekly</changefreq>
-        </url>
-        <url>
-            <loc>/resources/tools-and-resources.html</loc>
+            <loc>/components/button/markdown.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    
